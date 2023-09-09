@@ -2,3 +2,7 @@
 
 Activity 1: Screenshot of the First Commit
 ![image](https://github.com/fabinjoe/ECE444-F2023-Assignment1/assets/66658906/0dcc923a-dc66-4e0d-a021-d4c233a42a3a)
+
+Activity 2: Screenshot of Merge
+![image](https://github.com/fabinjoe/ECE444-F2023-Assignment1/assets/66658906/77f1ae76-12ab-403a-9cec-e06523e28666)
+
