@@ -8,3 +8,6 @@ Activity 2: Screenshot of Merge
 
 Activity 3: Screenshot of Merge
 ![image](https://github.com/fabinjoe/ECE444-F2023-Assignment1/assets/66658906/7d1a7006-b27f-4385-b60f-9f764ca558b9)
+
+Activity 4: Screenshot of code commits
+![image](https://github.com/fabinjoe/ECE444-F2023-Assignment1/assets/66658906/0e967289-b2de-4ba8-bf23-e3198f5866ee)
